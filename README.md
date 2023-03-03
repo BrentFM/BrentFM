@@ -1,6 +1,8 @@
 ### Hi there, I'm Brent 👋
 
-### :hammer_and_wrench: Languages and Tools :
+I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradicate bugs!
+
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -13,17 +15,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**BrentFM/BrentFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stats
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brentfm&theme=rising-sun&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Brent-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brent-haskins-ba9948a3)
+[![Twitter Badge](https://img.shields.io/badge/-Brentxdev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/brentxdev)
