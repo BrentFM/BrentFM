@@ -1,5 +1,5 @@
 ### Hi there, I'm Brent 👋
-I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradicate bugs!<br/><br/>
+I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradicate bugs! (Most of the time)<br/><br/>
 
 ### Projects
 <!-- <div>
