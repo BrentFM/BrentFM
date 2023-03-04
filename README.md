@@ -17,7 +17,7 @@ I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradi
 #### [Asper Homes](https://asperhomes.com)<br/> Real Estate Listing Management <br/>
 #### [Asper Technology](https://aspertechnology.com)<br/> Web Design & Development<br/><br/><br/>
 
-### Languages and Tools :
+### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
