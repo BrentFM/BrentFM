@@ -38,4 +38,3 @@ I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradi
 
 ### Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-Brent-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brent-haskins-ba9948a3)
-[![Twitter Badge](https://img.shields.io/badge/-Brentxdev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/brentxdev)
