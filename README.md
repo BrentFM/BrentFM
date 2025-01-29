@@ -31,10 +31,3 @@ I am a Full Stack Developer & UI/UX Designer... And exterminator because I eradi
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div><br/><br/>
-
-### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brentfm&theme=rising-sun&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-<br/><br/>
-
-### Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-Brent-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brent-haskins-ba9948a3)
