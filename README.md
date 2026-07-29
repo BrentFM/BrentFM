@@ -1,25 +1,33 @@
 ### Hi there, I'm Brent 👋
 
-I'm a **Full Stack Developer & UI/UX Designer** who loves building products that make a difference. When I'm not coding, I'm probably debugging something... or debugging the debugging process! 🐛
+I'm a **Product Engineer & UI/UX Designer** who loves building products that make a difference. I work across product strategy, interface design, and full-stack development. When I'm not coding, I'm probably debugging something... or debugging the debugging process! 🐛
+
+Based in Phoenix, Arizona and open to relocate. I enjoy turning rough ideas into secure, usable products and shipping the details that make them feel finished.
 
 ---
 
 ### 🚀 Featured Projects
 
+#### [Asper Studio](https://aspertechnology.com)
+Creative studio building brands, websites, tools, and apps that customers love.
+
 #### [Auri Social](https://auri.social)
 Social media reimagined. A platform where your voice matters, your content gets seen, and your privacy is sacred. Built by creators, for creators.
 
-#### [Formably](https://formably.co)
-Build high-converting forms that grow your business. Instantly generate, customize, and share forms that match your brand. Collect unlimited responses, analyze trends, and automate follow-up.
+#### [RallyLeads](https://brenthaskins.com/projects/rally)
+Mortgage broker websites and lead capture tools built for a better customer experience.
 
-#### [Smart Mortgage Training](https://sm.training)
-Learn the art of selling. Master the mortgage industry with top-tier tools and comprehensive courses to help you close more deals and amplify your mortgage career.
+#### [Smart Mortgage Training](https://brenthaskins.com/projects/smart-mortgage-training)
+Courses, flashcards, quizzes, loan analysis, and Mortgage AI for loan officers.
 
-#### [Floom](https://thefloom.app)
-Your ideas, never lost to sleep. Capture brilliance the moment it strikes. Floom transforms your midnight thoughts into tomorrow's success stories with AI-powered expansion and organization.
+#### [Formably](https://brenthaskins.com/projects/formably)
+An AI form builder for creating branded forms, collecting responses, and automating follow-up.
 
-#### [Asper Technology](https://aspertechnology.com)
-Web design agency that turns your vision into reality. We help businesses & start-ups create brands, websites, tools, and apps that customers love.
+#### [Floom](https://apps.apple.com/us/app/floom/id6746171098)
+Your ideas, never lost to sleep. A privacy-first iOS app for capturing and organizing thoughts.
+
+#### [Asilo Studios](https://brenthaskins.com/projects/asilo-studios)
+Unreal Engine tools and systems built to help indie teams ship games faster.
 
 ---
 
@@ -48,4 +56,3 @@ Web design agency that turns your vision into reality. We help businesses & star
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
