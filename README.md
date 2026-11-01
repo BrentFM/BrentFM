@@ -1,58 +1,55 @@
-### Hi there, I'm Brent 👋
+# Hi, I'm Brent 👋
 
-I'm a **Product Engineer & UI/UX Designer** who loves building products that make a difference. I work across product strategy, interface design, and full-stack development. When I'm not coding, I'm probably debugging something... or debugging the debugging process! 🐛
+**Product engineer & designer** building thoughtful software from idea to finished experience.
 
-Based in Phoenix, Arizona and open to relocate. I enjoy turning rough ideas into secure, usable products and shipping the details that make them feel finished.
+I'm a curious builder who enjoys connecting product strategy, interface design, and engineering. I like understanding the problem behind a project, questioning assumptions, and turning ideas into something people can actually use.
 
----
+Based in Phoenix, Arizona, I'm open to relocation. Over six-plus years, I've worked across web, mobile, and cloud products—from social experiences and creative tools to mortgage software and AI-assisted workflows.
 
-### 🚀 Featured Projects
+## What I care about
 
-#### [Asper Studio](https://aspertechnology.com)
-Creative studio building brands, websites, tools, and apps that customers love.
+A great product is more than a collection of features. It should make something easier, earn people's trust, and feel considered in the details.
 
-#### [Auri Social](https://auri.social)
-Social media reimagined. A platform where your voice matters, your content gets seen, and your privacy is sacred. Built by creators, for creators.
+I enjoy working across the whole experience, especially:
 
-#### [RallyLeads](https://brenthaskins.com/projects/rally)
-Mortgage broker websites and lead capture tools built for a better customer experience.
+- **Product thinking:** Understanding the problem, questioning assumptions, and finding practical solutions.
+- **Design and craft:** Creating thoughtful interfaces and paying attention to the details that make them feel complete.
+- **Trust and usability:** Considering privacy, accessibility, and how people experience a product day to day.
+- **Building end to end:** Connecting the initial idea, the interface, and the systems that make it work.
+- **Applied AI:** Building AI agents, agentic workflows, and retrieval-augmented generation (RAG) systems that make information more useful.
 
-#### [Smart Mortgage Training](https://brenthaskins.com/projects/smart-mortgage-training)
-Courses, flashcards, quizzes, loan analysis, and Mortgage AI for loan officers.
+## Selected work
 
-#### [Formably](https://brenthaskins.com/projects/formably)
-An AI form builder for creating branded forms, collecting responses, and automating follow-up.
+- **[Auri Social](https://auri.social) · Co-founder & Product Engineer:** A creator-focused mobile social platform built around expression, accessibility, and privacy. I worked across the design system, native experience, and backend for encrypted messaging.
+- **[RallyLeads](https://brenthaskins.com/projects/rally) · Product Engineer:** A platform that helps mortgage brokers create websites and capture leads. I built across site templates, lead forms, notifications, and pipeline tools.
+- **[Smart Mortgage Training](https://brenthaskins.com/projects/smart-mortgage-training) · Software Engineer:** A learning platform connecting courses with practical tools for loan officers. I helped build the web platform and learning experience, including progress tracking, loan analysis, flashcards, and AI-assisted mortgage Q&A.
+- **[Formably](https://brenthaskins.com/projects/formably) · Full-Stack Engineer:** An AI-assisted form builder for branded forms, responses, and follow-up. I worked across the user experience and full-stack architecture, including form generation, notifications, and integrations.
 
-#### [Floom](https://apps.apple.com/us/app/floom/id6746171098)
-Your ideas, never lost to sleep. A privacy-first iOS app for capturing and organizing thoughts.
-
-#### [Asilo Studios](https://brenthaskins.com/projects/asilo-studios)
-Unreal Engine tools and systems built to help indie teams ship games faster.
-
----
-
-### 💻 Tech Stack
+## Tools I work with
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="" width="36" height="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="" width="36" height="36" />
 </div>
 
----
+JavaScript · React · Node.js · Swift · Electron · Firebase · Azure · Google Cloud · HTML · CSS
 
-### 📫 Connect With Me
+**AI & development:** AI agents · Agentic workflows · Retrieval-augmented generation (RAG) · Codex · Claude Code · Cursor
 
-- **Portfolio**: [brenthaskins.com](https://brenthaskins.com)
-- **Email**: Available on my portfolio
+## Beyond the code
 
----
+I'm drawn to music, games, storytelling, travel, and creative projects of all kinds. I enjoy exploring what makes an experience resonate with people—and then figuring out how to bring an idea of my own to life.
 
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+## Connect
+
+I'm always interested in thoughtful conversations about products, design, engineering, and interesting ideas.
+
+[Portfolio & contact](https://brenthaskins.com)
